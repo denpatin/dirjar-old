@@ -1,0 +1,17 @@
+﻿body {margin:0; color: black; background-color:#555555; font-family: 'Arial Unicode MS'; text-align: center;}
+iframe {width:250px; height:600; border:0}
+table {border-spacing:0}
+p {text-align:justify}
+h2 {font-family: 'Monotype Corsiva', italic; font-size:24pt; color:#808000; text-align: right; border-bottom: 1px solid #808000;}
+a {color: blue}
+a.out {color:blue; background: url(link.png) no-repeat 0 5px; padding-left: 13px;}
+big {font-wight:900; color:red}
+img {border: none; outline: none}
+.all {width:900px; margin: 0 auto; height:100%}
+.header {width:900px; background-color:#f0e68c; height:70px; border-bottom: 1px solid #bdb76b; border-left: 1px solid #bdb76b; border-right:1px solid #bdb76b; padding: 0}
+.menu {width:250px; background-color:#eee8aa; vertical-align:top; border-right: 1px solid #bdb76b; border-left:1px solid #bdb76b; padding: 0px}
+.main {width:650px; background-color:#ffffe0; vertical-align:top; border-right: 1px solid #bdb76b; padding: 5px}
+.footer {width:900px; background-color:#f0e68c; height:50px; text-align:center; border-top: 1px solid #bdb76b; border-left: 1px solid #bdb76b; border-right: 1px solid #bdb76b; padding: 5px}
+.dir {font-family: Cambria; font-weight:900; color:#808000; font-size:larger}
+.comment {border-left: 1px solid #bdb76b; margin-left: 10px; padding-left: 10px; color:grey}
+.intable {border: 1px solid #bdb76b}
